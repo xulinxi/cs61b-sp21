@@ -34,12 +34,12 @@ Skeleton Code:[Berkeley-CS61B/skeleton-sp21](https://github.com/Berkeley-CS61B/s
 
 | LAB                                                                                                         |          CODE          |   DATE   |       STATUS       | AUTOGRADER SCORE  |
 | ----------------------------------------------------------------------------------------------------------- | :--------------------: | :------: | :----------------: | :---------------: |
-| [Lab 1: IntelliJ, Java, git](https://sp21.datastructur.es/materials/lab/lab1/lab1)                          | [:link: link](./lab1/) | 22/08/09 | :white_check_mark: | **_32.0 / 32.0_** |
-| [Lab 2: JUnit Tests and Debugging](https://sp21.datastructur.es/materials/lab/lab2/lab2)                    | [:link: link](./lab2/) | 22/08/09 | :white_check_mark: | **_64.0 / 64.0_** |
-| [Lab 3: Timing Tests and Randomized Comparison Tests](https://sp21.datastructur.es/materials/lab/lab3/lab3) | [:link: link](./lab3/) | 22/08/30 | :white_check_mark: | **_64.0 / 64.0_** |
-| [Lab 4: Git and Debugging](https://sp21.datastructur.es/materials/lab/lab4/lab4)                            | [:link: link](./lab4/) | 22/09/03 | :white_check_mark: | **_32.0 / 32.0_** |
-| [Lab 5: Project 1 Peer Code Review](https://sp21.datastructur.es/materials/lab/lab5/lab5)                   | [:link: link](./lab5/) | 22/09/05 | :white_check_mark: |    **_NONE_**     |
-| [Lab 6: Getting Started on Project 2](https://sp21.datastructur.es/materials/lab/lab6/lab6)                 | [:link: link](./lab6/) | 22/09/05 | :white_check_mark: | **_64.0 / 64.0_** |
+| [Lab 1: IntelliJ, Java, git](https://sp21.datastructur.es/materials/lab/lab1/lab1)                          | [:link: link](./lab1/) |   |   | **_xx.0 / xx.0_** |
+| [Lab 2: JUnit Tests and Debugging](https://sp21.datastructur.es/materials/lab/lab2/lab2)                    | [:link: link](./lab2/) |   |   | **_ _** |
+| [Lab 3: Timing Tests and Randomized Comparison Tests](https://sp21.datastructur.es/materials/lab/lab3/lab3) | [:link: link](./lab3/) |   |   | **_ _** |
+| [Lab 4: Git and Debugging](https://sp21.datastructur.es/materials/lab/lab4/lab4)                            | [:link: link](./lab4/) |   |   | **_ _** |
+| [Lab 5: Project 1 Peer Code Review](https://sp21.datastructur.es/materials/lab/lab5/lab5)                   | [:link: link](./lab5/) |   |   |    **_NONE_**     |
+| [Lab 6: Getting Started on Project 2](https://sp21.datastructur.es/materials/lab/lab6/lab6)                 | [:link: link](./lab6/) |   |   | **_ _** |
 | [Lab 7: BSTMap](https://sp21.datastructur.es/materials/lab/lab7/lab7)                                       | [:link: link](./lab7/) |  |  | |
 | [Lab 8: HashMap](https://sp21.datastructur.es/materials/lab/lab8/lab8)                                      |                        |          |                    |                   |
 
@@ -50,21 +50,21 @@ total perfection for full credit. Also finished almost all optional exercises.
 
 | NAME                                 |       STATUS       |        SCORE        |
 | ------------------------------------ | :----------------: | :-----------------: |
-| Lab 1: Welcome to Java               | :white_check_mark: |  **_32.0 / 32.0_**  |
-| Lab 2: Debugging                     | :white_check_mark: |  **_64.0 / 64.0_**  |
-| Lab 3: Randomized Testing and Timing | :white_check_mark: |  **_64.0 / 64.0_**  |
-| Lab 4: Debugging                     | :white_check_mark: |  **_32.0 / 32.0_**  |
-| Lab 4A: Git Exercise Part A          | :white_check_mark: |  **_16.0 / 16.0_**  |
-| Lab 4B: Git Exercise Part B          | :white_check_mark: |  **_16.0 / 16.0_**  |
-| Lab 6: Getting Started on Project 2  | :white_check_mark: |  **_64.0 / 64.0_**  |
-| Lab 7: BST Map                       | :white_check_mark: |  **_64.0 / 64.0_**  |
+| Lab 1: Welcome to Java               | :white_check_mark: |  **_ _**  |
+| Lab 2: Debugging                     | :white_check_mark: |  **_ _**  |
+| Lab 3: Randomized Testing and Timing | :white_check_mark: |  **_ _**  |
+| Lab 4: Debugging                     | :white_check_mark: |  **_ _**  |
+| Lab 4A: Git Exercise Part A          | :white_check_mark: |  **_ _**  |
+| Lab 4B: Git Exercise Part B          | :white_check_mark: |  **_ _**  |
+| Lab 6: Getting Started on Project 2  | :white_check_mark: |  **_ _**  |
+| Lab 7: BST Map                       | :white_check_mark: |  **_ _**  |
 | Lab 8: Hash Map                      |                    |                     |
 | Lab 12: Getting Started on Project 3 |                    |                     |
 | HW2: Conceptual Review               |                    |                     |
-| Project 0: 2048                      | :white_check_mark: | **_640.0 / 640.0_** |
-| Project 1: Checkpoint                | :white_check_mark: |  **_16.0 / 16.0_**  |
-| Project 1: Data Structures           | :white_check_mark: | **_640.0 / 640.0_** |
-| Project 1: Data Structures EC        | :white_check_mark: |  **_32.0 / 32.0_**  |
+| Project 0: 2048                      | :white_check_mark: | **_ _** |
+| Project 1: Checkpoint                | :white_check_mark: |  **_ _**  |
+| Project 1: Data Structures           | :white_check_mark: | **_ _** |
+| Project 1: Data Structures EC        | :white_check_mark: |  **_ _**  |
 | Project 2: Gitlet (Checkpoint)       |                    |                     |
 | Project 2: Gitlet                    |                    |                     |
 | Project 3 Part I: World Generation   |                    |                     |

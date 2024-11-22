@@ -51,20 +51,20 @@ total perfection for full credit. Also finished almost all optional exercises.
 | NAME                                 |       STATUS       |        SCORE        |
 | ------------------------------------ | :----------------: | :-----------------: |
 | Lab 1: Welcome to Java               | :white_check_mark: |  **_ _**  |
-| Lab 2: Debugging                     | :white_check_mark: |  **_ _**  |
-| Lab 3: Randomized Testing and Timing | :white_check_mark: |  **_ _**  |
-| Lab 4: Debugging                     | :white_check_mark: |  **_ _**  |
-| Lab 4A: Git Exercise Part A          | :white_check_mark: |  **_ _**  |
-| Lab 4B: Git Exercise Part B          | :white_check_mark: |  **_ _**  |
-| Lab 6: Getting Started on Project 2  | :white_check_mark: |  **_ _**  |
-| Lab 7: BST Map                       | :white_check_mark: |  **_ _**  |
+| Lab 2: Debugging                     |   |  **_ _**  |
+| Lab 3: Randomized Testing and Timing |   |  **_ _**  |
+| Lab 4: Debugging                     |   |  **_ _**  |
+| Lab 4A: Git Exercise Part A          |   |  **_ _**  |
+| Lab 4B: Git Exercise Part B          |   |  **_ _**  |
+| Lab 6: Getting Started on Project 2  |   |  **_ _**  |
+| Lab 7: BST Map                       |   |  **_ _**  |
 | Lab 8: Hash Map                      |                    |                     |
 | Lab 12: Getting Started on Project 3 |                    |                     |
 | HW2: Conceptual Review               |                    |                     |
-| Project 0: 2048                      | :white_check_mark: | **_ _** |
-| Project 1: Checkpoint                | :white_check_mark: |  **_ _**  |
-| Project 1: Data Structures           | :white_check_mark: | **_ _** |
-| Project 1: Data Structures EC        | :white_check_mark: |  **_ _**  |
+| Project 0: 2048                      |   | **_ _** |
+| Project 1: Checkpoint                |   |  **_ _**  |
+| Project 1: Data Structures           |   | **_ _** |
+| Project 1: Data Structures EC        |   |  **_ _**  |
 | Project 2: Gitlet (Checkpoint)       |                    |                     |
 | Project 2: Gitlet                    |                    |                     |
 | Project 3 Part I: World Generation   |                    |                     |
